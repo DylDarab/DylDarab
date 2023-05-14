@@ -2,6 +2,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/apicha.onamphai/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dyldarab/)
+[![wakatime](https://wakatime.com/badge/user/2fef6451-c15b-4ad2-8475-b24ddaa184c2.svg)](https://wakatime.com/@2fef6451-c15b-4ad2-8475-b24ddaa184c2)
 
 </div>
 
